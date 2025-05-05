@@ -33,10 +33,10 @@ eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__w
 
 /***/ }),
 
-/***/ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22C%3A%5C%5CUsers%5C%5Ceyyub%5C%5CDesktop%5C%5CInterview-24%5C%5Csrc%5C%5Capp%5C%5Cgloabel.css%22%2C%22ids%22%3A%5B%5D%7D&server=true!":
-/*!************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22C%3A%5C%5CUsers%5C%5Ceyyub%5C%5CDesktop%5C%5CInterview-24%5C%5Csrc%5C%5Capp%5C%5Cgloabel.css%22%2C%22ids%22%3A%5B%5D%7D&server=true! ***!
-  \************************************************************************************************************************************************************************************************************************************************************/
+/***/ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22C%3A%5C%5CUsers%5C%5Ceyyub%5C%5CDesktop%5C%5CInterview-24%5C%5Csrc%5C%5Capp%5C%5Cglobal.css%22%2C%22ids%22%3A%5B%5D%7D&server=true!":
+/*!***********************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22C%3A%5C%5CUsers%5C%5Ceyyub%5C%5CDesktop%5C%5CInterview-24%5C%5Csrc%5C%5Capp%5C%5Cglobal.css%22%2C%22ids%22%3A%5B%5D%7D&server=true! ***!
+  \***********************************************************************************************************************************************************************************************************************************************************/
 /***/ (() => {
 
 
@@ -53,14 +53,14 @@ eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__web
 
 /***/ }),
 
-/***/ "(rsc)/./src/app/gloabel.css":
-/*!*****************************!*\
-  !*** ./src/app/gloabel.css ***!
-  \*****************************/
+/***/ "(rsc)/./src/app/global.css":
+/*!****************************!*\
+  !*** ./src/app/global.css ***!
+  \****************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (\"a13904bfeef2\");\nif (false) {}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9zcmMvYXBwL2dsb2FiZWwuY3NzIiwibWFwcGluZ3MiOiI7Ozs7QUFBQSxpRUFBZSxjQUFjO0FBQzdCLElBQUksS0FBVSxFQUFFLEVBQXVCIiwic291cmNlcyI6WyJDOlxcVXNlcnNcXGV5eXViXFxEZXNrdG9wXFxJbnRlcnZpZXctMjRcXHNyY1xcYXBwXFxnbG9hYmVsLmNzcyJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCBcImExMzkwNGJmZWVmMlwiXG5pZiAobW9kdWxlLmhvdCkgeyBtb2R1bGUuaG90LmFjY2VwdCgpIH1cbiJdLCJuYW1lcyI6W10sImlnbm9yZUxpc3QiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(rsc)/./src/app/gloabel.css\n");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (\"a13904bfeef2\");\nif (false) {}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9zcmMvYXBwL2dsb2JhbC5jc3MiLCJtYXBwaW5ncyI6Ijs7OztBQUFBLGlFQUFlLGNBQWM7QUFDN0IsSUFBSSxLQUFVLEVBQUUsRUFBdUIiLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcZXl5dWJcXERlc2t0b3BcXEludGVydmlldy0yNFxcc3JjXFxhcHBcXGdsb2JhbC5jc3MiXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQgXCJhMTM5MDRiZmVlZjJcIlxuaWYgKG1vZHVsZS5ob3QpIHsgbW9kdWxlLmhvdC5hY2NlcHQoKSB9XG4iXSwibmFtZXMiOltdLCJpZ25vcmVMaXN0IjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(rsc)/./src/app/global.css\n");
 
 /***/ }),
 
@@ -71,7 +71,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ RootLayout)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"(rsc)/./node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _gloabel_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./gloabel.css */ \"(rsc)/./src/app/gloabel.css\");\n\n\nfunction RootLayout({ children }) {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"html\", {\n        lang: \"en\",\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"body\", {\n            children: children\n        }, void 0, false, {\n            fileName: \"C:\\\\Users\\\\eyyub\\\\Desktop\\\\Interview-24\\\\src\\\\app\\\\layout.js\",\n            lineNumber: 6,\n            columnNumber: 7\n        }, this)\n    }, void 0, false, {\n        fileName: \"C:\\\\Users\\\\eyyub\\\\Desktop\\\\Interview-24\\\\src\\\\app\\\\layout.js\",\n        lineNumber: 5,\n        columnNumber: 5\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9zcmMvYXBwL2xheW91dC5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7OztBQUF1QjtBQUVSLFNBQVNBLFdBQVcsRUFBRUMsUUFBUSxFQUFFO0lBQzdDLHFCQUNFLDhEQUFDQztRQUFLQyxNQUFLO2tCQUNULDRFQUFDQztzQkFBTUg7Ozs7Ozs7Ozs7O0FBR2IiLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcZXl5dWJcXERlc2t0b3BcXEludGVydmlldy0yNFxcc3JjXFxhcHBcXGxheW91dC5qcyJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgXCIuL2dsb2FiZWwuY3NzXCI7XHJcblxyXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBSb290TGF5b3V0KHsgY2hpbGRyZW4gfSkge1xyXG4gIHJldHVybiAoXHJcbiAgICA8aHRtbCBsYW5nPVwiZW5cIj5cclxuICAgICAgPGJvZHk+e2NoaWxkcmVufTwvYm9keT5cclxuICAgIDwvaHRtbD5cclxuICApO1xyXG59XHJcbiJdLCJuYW1lcyI6WyJSb290TGF5b3V0IiwiY2hpbGRyZW4iLCJodG1sIiwibGFuZyIsImJvZHkiXSwiaWdub3JlTGlzdCI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(rsc)/./src/app/layout.js\n");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ RootLayout)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"(rsc)/./node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _global_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./global.css */ \"(rsc)/./src/app/global.css\");\n\n\nfunction RootLayout({ children }) {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"html\", {\n        lang: \"en\",\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"body\", {\n            children: children\n        }, void 0, false, {\n            fileName: \"C:\\\\Users\\\\eyyub\\\\Desktop\\\\Interview-24\\\\src\\\\app\\\\layout.js\",\n            lineNumber: 7,\n            columnNumber: 7\n        }, this)\n    }, void 0, false, {\n        fileName: \"C:\\\\Users\\\\eyyub\\\\Desktop\\\\Interview-24\\\\src\\\\app\\\\layout.js\",\n        lineNumber: 6,\n        columnNumber: 5\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9zcmMvYXBwL2xheW91dC5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7OztBQUFzQjtBQUdQLFNBQVNBLFdBQVcsRUFBRUMsUUFBUSxFQUFFO0lBQzdDLHFCQUNFLDhEQUFDQztRQUFLQyxNQUFLO2tCQUNULDRFQUFDQztzQkFBTUg7Ozs7Ozs7Ozs7O0FBR2IiLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcZXl5dWJcXERlc2t0b3BcXEludGVydmlldy0yNFxcc3JjXFxhcHBcXGxheW91dC5qcyJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgXCIuL2dsb2JhbC5jc3NcIjtcclxuXHJcblxyXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBSb290TGF5b3V0KHsgY2hpbGRyZW4gfSkge1xyXG4gIHJldHVybiAoXHJcbiAgICA8aHRtbCBsYW5nPVwiZW5cIj5cclxuICAgICAgPGJvZHk+e2NoaWxkcmVufTwvYm9keT5cclxuICAgIDwvaHRtbD5cclxuICApO1xyXG59XHJcbiJdLCJuYW1lcyI6WyJSb290TGF5b3V0IiwiY2hpbGRyZW4iLCJodG1sIiwibGFuZyIsImJvZHkiXSwiaWdub3JlTGlzdCI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(rsc)/./src/app/layout.js\n");
 
 /***/ }),
 
@@ -108,10 +108,10 @@ eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__w
 
 /***/ }),
 
-/***/ "(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22C%3A%5C%5CUsers%5C%5Ceyyub%5C%5CDesktop%5C%5CInterview-24%5C%5Csrc%5C%5Capp%5C%5Cgloabel.css%22%2C%22ids%22%3A%5B%5D%7D&server=true!":
-/*!************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22C%3A%5C%5CUsers%5C%5Ceyyub%5C%5CDesktop%5C%5CInterview-24%5C%5Csrc%5C%5Capp%5C%5Cgloabel.css%22%2C%22ids%22%3A%5B%5D%7D&server=true! ***!
-  \************************************************************************************************************************************************************************************************************************************************************/
+/***/ "(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22C%3A%5C%5CUsers%5C%5Ceyyub%5C%5CDesktop%5C%5CInterview-24%5C%5Csrc%5C%5Capp%5C%5Cglobal.css%22%2C%22ids%22%3A%5B%5D%7D&server=true!":
+/*!***********************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22C%3A%5C%5CUsers%5C%5Ceyyub%5C%5CDesktop%5C%5CInterview-24%5C%5Csrc%5C%5Capp%5C%5Cglobal.css%22%2C%22ids%22%3A%5B%5D%7D&server=true! ***!
+  \***********************************************************************************************************************************************************************************************************************************************************/
 /***/ (() => {
 
 
